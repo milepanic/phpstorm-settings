@@ -28,7 +28,6 @@
     <keyboard-shortcut first-keystroke="ctrl b" />
   </action>
   <action id="EditorIndentLineOrSelection">
-    <keyboard-shortcut first-keystroke="tab" />
     <keyboard-shortcut first-keystroke="ctrl close_bracket" />
   </action>
   <action id="EditorSelectWord">
@@ -42,6 +41,9 @@
     <keyboard-shortcut first-keystroke="ctrl open_bracket" />
   </action>
   <action id="ExpandLiveTemplateByTab" />
+  <action id="ExpandLiveTemplateCustom">
+    <keyboard-shortcut first-keystroke="tab" />
+  </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="ctrl r" />
