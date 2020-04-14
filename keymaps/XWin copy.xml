@@ -30,6 +30,18 @@
   <action id="EditorIndentLineOrSelection">
     <keyboard-shortcut first-keystroke="ctrl close_bracket" />
   </action>
+  <action id="EditorNextWordInDifferentHumpsMode">
+    <keyboard-shortcut first-keystroke="alt right" />
+  </action>
+  <action id="EditorNextWordInDifferentHumpsModeWithSelection">
+    <keyboard-shortcut first-keystroke="shift alt right" />
+  </action>
+  <action id="EditorPreviousWordInDifferentHumpsMode">
+    <keyboard-shortcut first-keystroke="alt left" />
+  </action>
+  <action id="EditorPreviousWordInDifferentHumpsModeWithSelection">
+    <keyboard-shortcut first-keystroke="shift alt left" />
+  </action>
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
@@ -81,8 +93,10 @@
   <action id="Jdbc.OpenEditor.DDL">
     <mouse-shortcut keystroke="control button1" />
   </action>
+  <action id="NextTab" />
   <action id="PrevParameter" />
   <action id="PrevTemplateParameter" />
+  <action id="PreviousTab" />
   <action id="PreviousTemplateVariable" />
   <action id="Replace" />
   <action id="SearchEverywhere.PrevTab" />
