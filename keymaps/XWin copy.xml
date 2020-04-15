@@ -106,5 +106,6 @@
   <action id="SearchEverywhere.PrevTab" />
   <action id="SendEOF" />
   <action id="Uml.ShowDiff" />
+  <action id="Vcs.UpdateProject" />
   <action id="openAssertEqualsDiff" />
 </keymap>
