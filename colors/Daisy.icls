@@ -3,7 +3,7 @@
     <property name="created">2020-03-05T15:15:48</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.3.3.0.0</property>
-    <property name="modified">2020-04-17T13:51:38</property>
+    <property name="modified">2020-06-01T16:18:13</property>
     <property name="originalScheme">Light Lite copy</property>
   </metaInfo>
   <colors>
@@ -29,9 +29,10 @@
     <option name="SELECTION_FOREGROUND" value="" />
     <option name="SEPARATOR_BELOW_COLOR" value="" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="" />
+    <option name="TABS" value="ffffff" />
     <option name="TEARLINE_COLOR" value="aaaaaa" />
     <option name="VISUAL_INDENT_GUIDE" value="f0f0f0" />
-    <option name="WHITESPACES" value="" />
+    <option name="WHITESPACES" value="ffffff" />
   </colors>
   <attributes>
     <option name="BAD_CHARACTER">
