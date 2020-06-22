@@ -90,8 +90,12 @@
   <action id="GotoDeclaration">
     <mouse-shortcut keystroke="control button1" />
   </action>
+  <action id="Inline" />
   <action id="Jdbc.OpenEditor.DDL">
     <mouse-shortcut keystroke="control button1" />
+  </action>
+  <action id="NewElement">
+    <keyboard-shortcut first-keystroke="ctrl alt n" />
   </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="alt numpad6" />
