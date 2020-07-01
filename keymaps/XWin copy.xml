@@ -87,8 +87,14 @@
   <action id="Go To Tab #9">
     <keyboard-shortcut first-keystroke="alt 9" />
   </action>
+  <action id="GotoClass">
+    <keyboard-shortcut first-keystroke="shift ctrl n" />
+  </action>
   <action id="GotoDeclaration">
     <mouse-shortcut keystroke="control button1" />
+  </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
   <action id="Inline" />
   <action id="Jdbc.OpenEditor.DDL">
