@@ -112,6 +112,9 @@
     <keyboard-shortcut first-keystroke="alt numpad4" />
   </action>
   <action id="PreviousTemplateVariable" />
+  <action id="Refactorings.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="ctrl alt released r" />
+  </action>
   <action id="Replace" />
   <action id="SearchEverywhere.PrevTab" />
   <action id="SendEOF" />
