@@ -7,7 +7,8 @@
     <option name="SHOW_FULL_SIGNATURES_IN_PARAMETER_INFO" value="true" />
   </component>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="17" />
+    <option name="FONT_SIZE" value="18" />
+    <option name="FONT_FAMILY" value="Cascadia Code" />
     <option name="LINE_SPACING" value="2.1" />
     <option name="USE_LIGATURES" value="true" />
   </component>
