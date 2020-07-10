@@ -4,7 +4,7 @@
     <property name="created">2020-06-22T14:10:51</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2020.1.2.0.0</property>
-    <property name="modified">2020-06-26T10:45:02</property>
+    <property name="modified">2020-07-10T13:32:16</property>
     <property name="originalScheme">_@user_plaid</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Monaco" />
@@ -13014,6 +13014,7 @@
     <option name="PHP_DOC_COMMENT_ID">
       <value>
         <option name="FOREGROUND" value="95b2b5" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PHP_ESCAPE_SEQUENCE">
