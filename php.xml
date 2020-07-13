@@ -1,5 +1,5 @@
 <application>
-  <component name="PhpAutoImport" global_constant_behavior="PREFER_FQN" global_function_behavior="PREFER_FQN" import_on_paste="ALL" />
+  <component name="PhpAutoImport" auto_import_file_scope="true" global_constant_behavior="PREFER_FQN" global_function_behavior="PREFER_FQN" import_on_paste="ALL" />
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter id="e7ff0246-0b0a-4151-b615-efe18d080994" name="PHP 7.3" home="/usr/bin/php" debugger_id="php.debugger.XDebug" />
