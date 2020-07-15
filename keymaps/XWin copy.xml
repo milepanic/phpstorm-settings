@@ -118,6 +118,9 @@
   <action id="Replace" />
   <action id="SearchEverywhere.PrevTab" />
   <action id="SendEOF" />
+  <action id="ToggleZenMode">
+    <keyboard-shortcut first-keystroke="ctrl alt back_quote" />
+  </action>
   <action id="Uml.ShowDiff" />
   <action id="Vcs.UpdateProject" />
   <action id="openAssertEqualsDiff" />
