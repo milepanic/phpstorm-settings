@@ -44,7 +44,7 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="hm" value="public function $VAR1$()&#10;{&#10;    return $this-&gt;hasMany($VAR2$);&#10;}" description="hasMany" toReformat="true" toShortenFQNames="true">
+  <template name="hasMany" value="public function $VAR1$()&#10;{&#10;    return $this-&gt;hasMany($VAR2$);&#10;}" description="hasMany relationship" toReformat="true" toShortenFQNames="true">
     <variable name="VAR1" expression="" defaultValue="&quot;name&quot;" alwaysStopAt="true" />
     <variable name="VAR2" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <context>
@@ -104,6 +104,13 @@
     <variable name="VAR1" expression="" defaultValue="&quot;Name&quot;" alwaysStopAt="true" />
     <variable name="VAR2" expression="" defaultValue="&quot;\$query&quot;" alwaysStopAt="true" />
     <variable name="VAR3" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="hasOne" value="public function $VAR1$()&#10;{&#10;    return $this-&gt;hasOne($VAR2$);&#10;}" description="hasOne relationship" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR1" expression="" defaultValue="&quot;name&quot;" alwaysStopAt="true" />
+    <variable name="VAR2" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <context>
       <option name="PHP" value="true" />
     </context>
