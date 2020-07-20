@@ -115,4 +115,11 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="belongsToMany" value="public function $VAR1$()&#10;    {&#10;        return $this-&gt;belongsToMany($VAR2$);&#10;    }" description="belongsToMany relationship" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
