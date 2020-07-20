@@ -10,6 +10,7 @@
   <action id="ActivateStructureToolWindow" />
   <action id="ActivateTODOToolWindow" />
   <action id="ActivateVersionControlToolWindow" />
+  <action id="CallHierarchy" />
   <action id="CheckinProject" />
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl w" />
@@ -97,6 +98,7 @@
     <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
   <action id="Inline" />
+  <action id="IntroduceVariable" />
   <action id="Jdbc.OpenEditor.DDL">
     <mouse-shortcut keystroke="control button1" />
   </action>
@@ -118,6 +120,15 @@
   <action id="Replace" />
   <action id="SearchEverywhere.PrevTab" />
   <action id="SendEOF" />
+  <action id="ShowSettings">
+    <keyboard-shortcut first-keystroke="ctrl comma" />
+  </action>
+  <action id="SplitHorizontally">
+    <keyboard-shortcut first-keystroke="ctrl alt h" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="ctrl alt v" />
+  </action>
   <action id="ToggleZenMode">
     <keyboard-shortcut first-keystroke="ctrl alt back_quote" />
   </action>
