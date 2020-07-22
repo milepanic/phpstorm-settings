@@ -1,4 +1,4 @@
-<keymap version="1" name="XWin copy" parent="Default for XWin">
+<keymap version="1" name="Mile's keymap" parent="Default for XWin">
   <action id="$Redo">
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
