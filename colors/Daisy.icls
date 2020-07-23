@@ -4,7 +4,7 @@
     <property name="created">2020-03-05T15:15:48</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.3.3.0.0</property>
-    <property name="modified">2020-07-13T15:24:27</property>
+    <property name="modified">2020-07-23T15:13:09</property>
     <property name="originalScheme">Light Lite copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="2.1" />
@@ -608,6 +608,7 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
+    <option name="PHP_ALIAS_REFERENCE" baseAttributes="PHP_CLASS" />
     <option name="PHP_BRACES">
       <value>
         <option name="FOREGROUND" value="9695ad" />
