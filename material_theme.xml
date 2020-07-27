@@ -1,5 +1,8 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="compactStatusBar" value="true" />
+    <option name="contrastMode" value="true" />
+    <option name="highContrast" value="true" />
     <option name="compactDropdowns" value="true" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isContrastMode" value="true" />
@@ -8,6 +11,6 @@
     <option name="accentColor" value="00bcd4" />
     <option name="selectedTheme" value="LIGHTER" />
     <option name="userId" value="-22eada2c:16d4fe1c1a6:-8000" />
-    <option name="version" value="4.11.5" />
+    <option name="version" value="5.2.0" />
   </component>
 </application>
