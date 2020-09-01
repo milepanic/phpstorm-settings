@@ -54,7 +54,7 @@
     <keyboard-shortcut first-keystroke="ctrl open_bracket" />
   </action>
   <action id="ExpandLiveTemplateByTab">
-    <keyboard-shortcut first-keystroke="TAB"/>
+    <keyboard-shortcut first-keystroke="tab" />
   </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="FileStructurePopup">
