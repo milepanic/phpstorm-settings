@@ -121,6 +121,9 @@
   </action>
   <action id="Replace" />
   <action id="SearchEverywhere.PrevTab" />
+  <action id="SelectAllOccurrences">
+    <keyboard-shortcut first-keystroke="alt k" />
+  </action>
   <action id="SendEOF" />
   <action id="ShowSettings">
     <keyboard-shortcut first-keystroke="ctrl comma" />
