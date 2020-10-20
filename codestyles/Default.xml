@@ -1,6 +1,8 @@
 <code_scheme name="Default" version="173">
   <HTMLCodeStyleSettings>
+    <option name="HTML_UNIFORM_INDENT" value="true" />
     <option name="HTML_ALIGN_ATTRIBUTES" value="false" />
+    <option name="HTML_SPACE_INSIDE_EMPTY_TAG" value="true" />
     <option name="HTML_ELEMENTS_TO_INSERT_NEW_LINE_BEFORE" value="div,p,form,h1,h2,h3,img" />
     <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="html" />
     <option name="HTML_ENFORCE_QUOTES" value="true" />
@@ -11,6 +13,7 @@
     <option name="USE_DOUBLE_QUOTES" value="false" />
     <option name="FORCE_QUOTE_STYlE" value="true" />
     <option name="ENFORCE_TRAILING_COMMA" value="WhenMultiline" />
+    <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
     <option name="SPACE_AFTER_UNARY_NOT" value="true" />
   </JSCodeStyleSettings>
