@@ -6,6 +6,8 @@
     <option name="HTML_ELEMENTS_TO_INSERT_NEW_LINE_BEFORE" value="div,p,form,h1,h2,h3,img" />
     <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="html" />
     <option name="HTML_ENFORCE_QUOTES" value="true" />
+    <option name="HTML_NEWLINE_BEFORE_FIRST_ATTRIBUTE" value="When multiline" />
+    <option name="HTML_NEWLINE_AFTER_LAST_ATTRIBUTE" value="When multiline" />
   </HTMLCodeStyleSettings>
   <JSCodeStyleSettings version="0">
     <option name="USE_SEMICOLON_AFTER_STATEMENT" value="false" />
