@@ -19,7 +19,7 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="testf" value="/**&#10; * @test&#10; * @covers $VAR1$::$VAR2$&#10; */&#10;function $VAR3$()&#10;{&#10;    $VAR4$&#10;}" description="test function" toReformat="true" toShortenFQNames="true">
+  <template name="testf" value="/**&#10; * @test&#10; * @covers $VAR1$::$VAR2$&#10; */&#10;public function $VAR3$(): void&#10;{&#10;    $VAR4$&#10;}" description="test function" toReformat="true" toShortenFQNames="true">
     <variable name="VAR1" expression="" defaultValue="&quot;Class&quot;" alwaysStopAt="true" />
     <variable name="VAR2" expression="" defaultValue="&quot;method&quot;" alwaysStopAt="true" />
     <variable name="VAR3" expression="" defaultValue="&quot;the_one_where&quot;" alwaysStopAt="true" />
