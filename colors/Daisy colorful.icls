@@ -4,7 +4,7 @@
     <property name="created">2021-03-05T12:43:25</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2020.3.2.0.0</property>
-    <property name="modified">2021-03-05T16:09:07</property>
+    <property name="modified">2021-03-05T16:20:51</property>
     <property name="originalScheme">Daisy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="2.1" />
@@ -16,6 +16,7 @@
   <option name="CONSOLE_LIGATURES" value="true" />
   <option name="CONSOLE_LINE_SPACING" value="1.6" />
   <colors>
+    <option name="ADDED_LINES_COLOR" value="effae7" />
     <option name="CARET_COLOR" value="a144d" />
     <option name="CARET_ROW_COLOR" value="f4f5fd" />
     <option name="CONSOLE_BACKGROUND_KEY" value="fefefe" />
@@ -47,6 +48,11 @@
     <option name="WHITESPACES" value="ffffff" />
   </colors>
   <attributes>
+    <option name="APACHE_CONFIG.ARG_LEXEM">
+      <value>
+        <option name="FOREGROUND" value="5cadff" />
+      </value>
+    </option>
     <option name="BAD_CHARACTER">
       <value />
     </option>
@@ -350,6 +356,11 @@
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
+    <option name="DOCKER_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="ff337e" />
+      </value>
+    </option>
     <option name="DOC_METHOD_IDENTIFIER">
       <value>
         <option name="FOREGROUND" value="a6a6a6" />
@@ -405,6 +416,17 @@
       <value>
         <option name="BACKGROUND" value="f5f5f5" />
         <option name="EFFECT_COLOR" value="dedede" />
+      </value>
+    </option>
+    <option name="IGNORE.NEGATION">
+      <value>
+        <option name="FOREGROUND" value="ff337e" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="IGNORE.VALUE">
+      <value>
+        <option name="FOREGROUND" value="7ef5" />
       </value>
     </option>
     <option name="INACTIVE_HYPERLINK_ATTRIBUTES">
@@ -511,30 +533,43 @@
     </option>
     <option name="JSON.BRACES">
       <value>
-        <option name="FOREGROUND" value="34a853" />
+        <option name="FOREGROUND" value="a144d" />
       </value>
     </option>
     <option name="JSON.BRACKETS">
       <value>
-        <option name="FOREGROUND" value="34a853" />
+        <option name="FOREGROUND" value="a144d" />
       </value>
     </option>
     <option name="JSON.COLON">
       <value>
-        <option name="FOREGROUND" value="34a853" />
+        <option name="FOREGROUND" value="a144d" />
       </value>
     </option>
     <option name="JSON.COMMA">
       <value>
-        <option name="FOREGROUND" value="34a853" />
+        <option name="FOREGROUND" value="a144d" />
       </value>
     </option>
     <option name="JSON.KEYWORD">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="7ef5" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="JSON.NUMBER">
+      <value>
+        <option name="FOREGROUND" value="7ef5" />
+      </value>
     </option>
     <option name="JSON.PROPERTY_KEY">
       <value>
-        <option name="FOREGROUND" value="4285f4" />
+        <option name="FOREGROUND" value="a144d" />
+      </value>
+    </option>
+    <option name="JSON.STRING">
+      <value>
+        <option name="FOREGROUND" value="7ef5" />
       </value>
     </option>
     <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
