@@ -60,7 +60,6 @@
     <keyboard-shortcut first-keystroke="shift ctrl d" />
   </action>
   <action id="EditorUnindentSelection">
-    <keyboard-shortcut first-keystroke="shift tab" />
     <keyboard-shortcut first-keystroke="ctrl open_bracket" />
   </action>
   <action id="ExpandLiveTemplateByTab">
@@ -125,7 +124,6 @@
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="alt numpad6" />
   </action>
-  <action id="PrevParameter" />
   <action id="PrevTemplateParameter" />
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="alt numpad4" />
