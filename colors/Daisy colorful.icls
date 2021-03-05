@@ -4,7 +4,7 @@
     <property name="created">2021-03-05T12:43:25</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2020.3.2.0.0</property>
-    <property name="modified">2021-03-05T14:14:42</property>
+    <property name="modified">2021-03-05T14:23:02</property>
     <property name="originalScheme">Daisy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="2.1" />
@@ -223,7 +223,7 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG">
       <value>
-        <option name="FOREGROUND" value="ff5c98" />
+        <option name="FOREGROUND" value="ff337e" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -272,7 +272,7 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="ff5c98" />
+        <option name="FOREGROUND" value="ff337e" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -420,19 +420,19 @@
     </option>
     <option name="INLINE_PARAMETER_HINT">
       <value>
-        <option name="FOREGROUND" value="454545" />
+        <option name="FOREGROUND" value="717171" />
         <option name="BACKGROUND" value="fdf5e0" />
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT_CURRENT">
       <value>
-        <option name="FOREGROUND" value="454545" />
+        <option name="FOREGROUND" value="717171" />
         <option name="BACKGROUND" value="fff9eb" />
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT_HIGHLIGHTED">
       <value>
-        <option name="FOREGROUND" value="454545" />
+        <option name="FOREGROUND" value="717171" />
         <option name="BACKGROUND" value="fff9eb" />
       </value>
     </option>
@@ -652,12 +652,6 @@
     <option name="PHP_DOC_PROPERTY_IDENTIFIER">
       <value>
         <option name="FOREGROUND" value="a6a6a6" />
-      </value>
-    </option>
-    <option name="PHP_DOC_TAG">
-      <value>
-        <option name="FOREGROUND" value="ff99be" />
-        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="PHP_EXEC_COMMAND_ID" baseAttributes="DEFAULT_STRING" />
