@@ -4,16 +4,20 @@
     <property name="created">2021-03-05T12:43:25</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2020.3.2.0.0</property>
-    <property name="modified">2021-03-05T14:23:02</property>
+    <property name="modified">2021-03-05T16:09:07</property>
     <property name="originalScheme">Daisy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="2.1" />
   <option name="EDITOR_FONT_SIZE" value="20" />
   <option name="EDITOR_FONT_NAME" value="Dank Mono" />
   <option name="EDITOR_LIGATURES" value="true" />
+  <option name="CONSOLE_FONT_NAME" value="Dank Mono" />
+  <option name="CONSOLE_FONT_SIZE" value="18" />
+  <option name="CONSOLE_LIGATURES" value="true" />
+  <option name="CONSOLE_LINE_SPACING" value="1.6" />
   <colors>
-    <option name="CARET_COLOR" value="" />
-    <option name="CARET_ROW_COLOR" value="f7f7f7" />
+    <option name="CARET_COLOR" value="a144d" />
+    <option name="CARET_ROW_COLOR" value="f4f5fd" />
     <option name="CONSOLE_BACKGROUND_KEY" value="fefefe" />
     <option name="DOCUMENTATION_COLOR" value="" />
     <option name="ERROR_HINT" value="" />
@@ -24,8 +28,8 @@
     <option name="INLINE_REFACTORING_SETTINGS_DEFAULT" value="ececec8c" />
     <option name="INLINE_REFACTORING_SETTINGS_FOCUSED" value="e7e7e78c" />
     <option name="INLINE_REFACTORING_SETTINGS_HOVERED" value="eaeaea8c" />
-    <option name="LINE_NUMBERS_COLOR" value="858aa6" />
-    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="" />
+    <option name="LINE_NUMBERS_COLOR" value="b3b7d0" />
+    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="a144d" />
     <option name="METHOD_SEPARATORS_COLOR" value="" />
     <option name="NOTIFICATION_BACKGROUND" value="" />
     <option name="QUESTION_HINT" value="" />
@@ -33,7 +37,7 @@
     <option name="RIGHT_MARGIN_COLOR" value="f0f0f0" />
     <option name="SELECTED_INDENT_GUIDE" value="" />
     <option name="SELECTED_TEARLINE_COLOR" value="0" />
-    <option name="SELECTION_BACKGROUND" value="eceeeb" />
+    <option name="SELECTION_BACKGROUND" value="ebebeb" />
     <option name="SELECTION_FOREGROUND" value="" />
     <option name="SEPARATOR_BELOW_COLOR" value="" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="" />
@@ -606,7 +610,7 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="99ccbb" />
+        <option name="BACKGROUND" value="c7d9ea" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -720,7 +724,7 @@
     <option name="TYPO">
       <value>
         <option name="EFFECT_COLOR" value="fcbc05" />
-        <option name="EFFECT_TYPE" value="4" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="UNMATCHED_BRACE_ATTRIBUTES">
