@@ -4,7 +4,7 @@
     <property name="created">2021-03-05T12:43:25</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2020.3.2.0.0</property>
-    <property name="modified">2021-03-05T17:15:23</property>
+    <property name="modified">2021-03-08T12:05:47</property>
     <property name="originalScheme">Daisy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="2.1" />
@@ -719,7 +719,7 @@
     </option>
     <option name="PHP_THIS_VAR">
       <value>
-        <option name="FOREGROUND" value="e00022" />
+        <option name="FOREGROUND" value="b8001c" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
