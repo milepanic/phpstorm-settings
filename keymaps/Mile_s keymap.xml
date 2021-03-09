@@ -13,7 +13,9 @@
     <keyboard-shortcut first-keystroke="ctrl alt s" />
   </action>
   <action id="ActivateStructureToolWindow" />
-  <action id="ActivateTODOToolWindow" />
+  <action id="ActivateTODOToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl alt g" />
+  </action>
   <action id="ActivateVersionControlToolWindow" />
   <action id="CallHierarchy" />
   <action id="CheckinProject" />
