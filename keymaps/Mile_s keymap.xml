@@ -159,5 +159,6 @@
   </action>
   <action id="Uml.ShowDiff" />
   <action id="Vcs.UpdateProject" />
+  <action id="nl.deschepers.laraveltinker.action.SmartAction" />
   <action id="openAssertEqualsDiff" />
 </keymap>
