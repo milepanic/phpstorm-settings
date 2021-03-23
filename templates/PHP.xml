@@ -4,4 +4,11 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="fun" value="function $NAME$($PARAMETERS$)&#10;{&#10;    $END$&#10;}" description="function" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAMETERS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
