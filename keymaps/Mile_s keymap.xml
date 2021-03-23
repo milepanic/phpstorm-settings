@@ -125,15 +125,11 @@
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="ctrl alt n" />
   </action>
-  <action id="NextParameter">
-    <keyboard-shortcut first-keystroke="alt close_bracket" />
-  </action>
+  <action id="NextParameter" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="alt numpad6" />
   </action>
-  <action id="PrevParameter">
-    <keyboard-shortcut first-keystroke="alt open_bracket" />
-  </action>
+  <action id="PrevParameter" />
   <action id="PrevTemplateParameter" />
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="alt numpad4" />
