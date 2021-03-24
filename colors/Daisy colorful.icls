@@ -4,7 +4,7 @@
     <property name="created">2021-03-05T12:43:25</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2020.3.2.0.0</property>
-    <property name="modified">2021-03-24T13:47:31</property>
+    <property name="modified">2021-03-24T13:51:08</property>
     <property name="originalScheme">Daisy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="2.1" />
@@ -40,7 +40,7 @@
     <option name="RIGHT_MARGIN_COLOR" value="f0f0f0" />
     <option name="SELECTED_INDENT_GUIDE" value="" />
     <option name="SELECTED_TEARLINE_COLOR" value="0" />
-    <option name="SELECTION_BACKGROUND" value="fbf2d4" />
+    <option name="SELECTION_BACKGROUND" value="efefef" />
     <option name="SELECTION_FOREGROUND" value="" />
     <option name="SEPARATOR_BELOW_COLOR" value="" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="" />
