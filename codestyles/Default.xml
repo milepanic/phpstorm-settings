@@ -1,11 +1,16 @@
 <code_scheme name="Default" version="173">
   <HTMLCodeStyleSettings>
     <option name="HTML_UNIFORM_INDENT" value="true" />
+    <option name="HTML_ATTRIBUTE_WRAP" value="4" />
+    <option name="HTML_TEXT_WRAP" value="0" />
+    <option name="HTML_KEEP_BLANK_LINES" value="1" />
     <option name="HTML_ALIGN_ATTRIBUTES" value="false" />
     <option name="HTML_SPACE_INSIDE_EMPTY_TAG" value="true" />
-    <option name="HTML_ELEMENTS_TO_INSERT_NEW_LINE_BEFORE" value="div,p,form,h1,h2,h3,img" />
-    <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="html" />
+    <option name="HTML_ELEMENTS_TO_INSERT_NEW_LINE_BEFORE" value="div,p,form,h2,h3,a,img" />
+    <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="" />
     <option name="HTML_KEEP_WHITESPACES_INSIDE" value="pre,textarea" />
+    <option name="HTML_INLINE_ELEMENTS" value="abbr,acronym,b,basefont,bdo,big,br,cite,cite,code,dfn,em,font,i,kbd,q,s,samp,small,span,strike,strong,sub,sup,tt,u,var,line" />
+    <option name="HTML_DONT_ADD_BREAKS_IF_INLINE_CONTENT" value="" />
     <option name="HTML_ENFORCE_QUOTES" value="true" />
     <option name="HTML_NEWLINE_BEFORE_FIRST_ATTRIBUTE" value="When multiline" />
     <option name="HTML_NEWLINE_AFTER_LAST_ATTRIBUTE" value="When multiline" />
