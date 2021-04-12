@@ -2,6 +2,9 @@
   <action id="$Redo">
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
+  <action id="ActivateCoverageToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl alt c" />
+  </action>
   <action id="ActivateDatabaseToolWindow">
     <keyboard-shortcut first-keystroke="ctrl alt d" />
   </action>
@@ -115,6 +118,7 @@
     <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
   <action id="Inline" />
+  <action id="IntroduceConstant" />
   <action id="IntroduceVariable" />
   <action id="Jdbc.OpenEditor.DDL">
     <mouse-shortcut keystroke="control button1" />
