@@ -26,6 +26,7 @@
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
   <action id="CodeGlance.toggle" />
+  <action id="CollapseSelection" />
   <action id="CompareTwoFiles" />
   <action id="Console.TableResult.CompareCells" />
   <action id="Console.TableResult.EditValueMaximized">
