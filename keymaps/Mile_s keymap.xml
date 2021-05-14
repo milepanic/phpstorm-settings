@@ -169,6 +169,9 @@
   </action>
   <action id="Uml.ShowDiff" />
   <action id="Vcs.UpdateProject" />
+  <action id="com.jetbrains.plugins.remotesdk.console.RunSshConsoleAction">
+    <keyboard-shortcut first-keystroke="alt f9" />
+  </action>
   <action id="nl.deschepers.laraveltinker.action.SmartAction" />
   <action id="openAssertEqualsDiff" />
 </keymap>
