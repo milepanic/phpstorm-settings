@@ -61,6 +61,14 @@
   <action id="EditorPreviousWordInDifferentHumpsModeWithSelection">
     <keyboard-shortcut first-keystroke="shift alt left" />
   </action>
+  <action id="EditorScrollDown">
+    <keyboard-shortcut first-keystroke="ctrl down" />
+    <keyboard-shortcut first-keystroke="ctrl alt j" />
+  </action>
+  <action id="EditorScrollUp">
+    <keyboard-shortcut first-keystroke="ctrl up" />
+    <keyboard-shortcut first-keystroke="ctrl alt k" />
+  </action>
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
@@ -81,6 +89,7 @@
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
+  <action id="Git.Commit.And.Push.Executor" />
   <action id="Go To Tab #1">
     <keyboard-shortcut first-keystroke="alt 1" />
   </action>
@@ -121,6 +130,7 @@
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
+  <action id="Hg.Commit.And.Push.Executor" />
   <action id="Inline" />
   <action id="IntroduceConstant" />
   <action id="IntroduceVariable" />
@@ -164,6 +174,7 @@
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="ctrl alt v" />
   </action>
+  <action id="SurroundWithLiveTemplate" />
   <action id="ToggleZenMode">
     <keyboard-shortcut first-keystroke="ctrl alt back_quote" />
   </action>
