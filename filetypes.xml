@@ -4,6 +4,8 @@
       <mapping pattern="LICENSE" type="AUTO_DETECTED" />
       <mapping pattern="develop" type="AUTO_DETECTED" />
       <mapping pattern="novifajlizmileusera" type="AUTO_DETECTED" />
+      <mapping pattern=".php_cs.dist" type="PHP" />
+      <mapping pattern=".php-cs-fixer.dist" type="PHP" />
       <mapping pattern="agent" type="PLAIN_TEXT" />
       <mapping pattern="crontab" type="PLAIN_TEXT" />
       <mapping pattern=".dockerenv" type="PLAIN_TEXT" />
