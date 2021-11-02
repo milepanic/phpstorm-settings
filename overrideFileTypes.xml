@@ -1,7 +1,8 @@
 <application>
   <component name="OverrideFileTypeManager">
+    <file url="file://$USER_HOME$/Projects/Laravel/Secra-messages/public/css/app.css" />
+    <file url="file://$USER_HOME$/Projects/Laravel/Secra-messages/public/js/app.js" />
     <file url="file://$USER_HOME$/Projects/Laravel/amenity-mapper/storage/logs/laravel.log" />
     <file url="file://$USER_HOME$/Projects/Laravel/tourexplorer/storage/logs/laravel.log" />
-    <file url="file://$USER_HOME$/Projects/Laravel/voffice/storage/logs/laravel.log" />
   </component>
 </application>
