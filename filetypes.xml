@@ -1,10 +1,11 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="demo" type="AUTO_DETECTED" />
       <mapping pattern="testdelete" type="AUTO_DETECTED" />
       <mapping pattern="LICENSE" type="AUTO_DETECTED" />
       <mapping pattern="develop" type="AUTO_DETECTED" />
+      <mapping pattern="sail" type="AUTO_DETECTED" />
+      <mapping pattern="demo" type="AUTO_DETECTED" />
       <mapping pattern="novifajlizmileusera" type="AUTO_DETECTED" />
       <mapping pattern=".php_cs.dist" type="PHP" />
       <mapping pattern=".php-cs-fixer.dist" type="PHP" />
