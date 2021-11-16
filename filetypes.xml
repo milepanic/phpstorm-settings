@@ -4,6 +4,7 @@
       <mapping pattern="testdelete" type="AUTO_DETECTED" />
       <mapping pattern="LICENSE" type="AUTO_DETECTED" />
       <mapping pattern="develop" type="AUTO_DETECTED" />
+      <mapping pattern="xdebug" type="AUTO_DETECTED" />
       <mapping pattern="sail" type="AUTO_DETECTED" />
       <mapping pattern="demo" type="AUTO_DETECTED" />
       <mapping pattern="novifajlizmileusera" type="AUTO_DETECTED" />
