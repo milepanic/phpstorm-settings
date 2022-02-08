@@ -4,7 +4,7 @@
     <property name="created">2021-03-05T12:43:25</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2020.3.2.0.0</property>
-    <property name="modified">2021-11-17T12:24:52</property>
+    <property name="modified">2022-02-08T15:29:57</property>
     <property name="originalScheme">Daisy</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Dank Mono" />
@@ -775,7 +775,8 @@
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="fcbc05" />
+        <option name="BACKGROUND" value="ffe082" />
+        <option name="EFFECT_COLOR" value="caae53" />
       </value>
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
