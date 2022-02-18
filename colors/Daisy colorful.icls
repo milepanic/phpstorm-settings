@@ -4,7 +4,7 @@
     <property name="created">2021-03-05T12:43:25</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2020.3.2.0.0</property>
-    <property name="modified">2022-02-16T15:15:26</property>
+    <property name="modified">2022-02-18T13:20:52</property>
     <property name="originalScheme">Daisy</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Dank Mono" />
@@ -636,6 +636,11 @@
     <option name="PHP_BRACKETS">
       <value>
         <option name="FOREGROUND" value="a144d" />
+      </value>
+    </option>
+    <option name="PHP_CLASS">
+      <value>
+        <option name="FOREGROUND" value="5fb8" />
       </value>
     </option>
     <option name="PHP_COMMA">
