@@ -4,7 +4,7 @@
     <property name="created">2021-03-05T12:43:25</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2020.3.2.0.0</property>
-    <property name="modified">2022-02-18T13:20:52</property>
+    <property name="modified">2022-03-09T10:18:41</property>
     <property name="originalScheme">Daisy</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Dank Mono" />
@@ -501,45 +501,20 @@
         <option name="FOREGROUND" value="a144d" />
       </value>
     </option>
-    <option name="JSON.BRACES">
-      <value>
-        <option name="FOREGROUND" value="a144d" />
-      </value>
-    </option>
-    <option name="JSON.BRACKETS">
-      <value>
-        <option name="FOREGROUND" value="a144d" />
-      </value>
-    </option>
-    <option name="JSON.COLON">
-      <value>
-        <option name="FOREGROUND" value="a144d" />
-      </value>
-    </option>
-    <option name="JSON.COMMA">
-      <value>
-        <option name="FOREGROUND" value="a144d" />
-      </value>
-    </option>
     <option name="JSON.KEYWORD">
       <value>
-        <option name="FOREGROUND" value="7ef5" />
+        <option name="FOREGROUND" value="5cadff" />
         <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="JSON.NUMBER">
-      <value>
-        <option name="FOREGROUND" value="7ef5" />
       </value>
     </option>
     <option name="JSON.PROPERTY_KEY">
       <value>
-        <option name="FOREGROUND" value="a144d" />
+        <option name="FOREGROUND" value="ff3352" />
       </value>
     </option>
     <option name="JSON.STRING">
       <value>
-        <option name="FOREGROUND" value="7ef5" />
+        <option name="FOREGROUND" value="5cadff" />
       </value>
     </option>
     <option name="JavaScript:INJECTED_LANGUAGE_FRAGMENT" baseAttributes="INJECTED_LANGUAGE_FRAGMENT" />
