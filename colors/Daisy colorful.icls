@@ -4,7 +4,7 @@
     <property name="created">2021-03-05T12:43:25</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2020.3.2.0.0</property>
-    <property name="modified">2022-03-09T10:18:41</property>
+    <property name="modified">2022-03-29T15:31:27</property>
     <property name="originalScheme">Daisy</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Dank Mono" />
@@ -706,6 +706,7 @@
       <value>
         <option name="FOREGROUND" value="a144d" />
         <option name="BACKGROUND" value="f7f7ff" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="TYPO">
