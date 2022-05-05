@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="testdelete" type="AUTO_DETECTED" />
       <mapping pattern="LICENSE" type="AUTO_DETECTED" />
+      <mapping pattern="ver-new" type="AUTO_DETECTED" />
       <mapping pattern="develop" type="AUTO_DETECTED" />
       <mapping pattern="xdebug" type="AUTO_DETECTED" />
       <mapping pattern="test-xdebug" type="AUTO_DETECTED" />
