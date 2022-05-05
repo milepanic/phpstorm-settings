@@ -75,7 +75,6 @@
   <action id="EditorStartNewLineBefore">
     <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
-  <action id="EditorToggleCase" />
   <action id="EditorUnSelectWord">
     <keyboard-shortcut first-keystroke="shift ctrl d" />
   </action>
@@ -89,9 +88,6 @@
   <action id="FileChooser.GotoDesktop" />
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="ctrl r" />
-  </action>
-  <action id="FindUsages">
-    <keyboard-shortcut first-keystroke="shift ctrl u" />
   </action>
   <action id="Git.Commit.And.Push.Executor" />
   <action id="Go To Tab #1">
@@ -169,7 +165,6 @@
     <keyboard-shortcut first-keystroke="alt k" />
   </action>
   <action id="SendEOF" />
-  <action id="ShelveChanges.UnshelveWithDialog" />
   <action id="ShowSettings">
     <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
@@ -190,5 +185,4 @@
   </action>
   <action id="nl.deschepers.laraveltinker.action.SmartAction" />
   <action id="openAssertEqualsDiff" />
-  <action id="org.intellij.plugins.markdown.ui.actions.styling.MarkdownCreateLinkAction" />
 </keymap>
