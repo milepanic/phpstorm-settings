@@ -4,7 +4,7 @@
     <property name="created">2021-03-05T12:43:25</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2020.3.2.0.0</property>
-    <property name="modified">2022-03-29T15:31:27</property>
+    <property name="modified">2022-07-11T15:31:38</property>
     <property name="originalScheme">Daisy</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Dank Mono" />
@@ -12,11 +12,12 @@
   <option name="CONSOLE_LIGATURES" value="true" />
   <option name="CONSOLE_LINE_SPACING" value="1.8" />
   <colors>
-    <option name="ADDED_LINES_COLOR" value="a8debd" />
+    <option name="ADDED_LINES_COLOR" value="c0e8c1" />
+    <option name="BORDER_LINES_COLOR" value="" />
     <option name="CARET_COLOR" value="a144d" />
     <option name="CARET_ROW_COLOR" value="f4f5fd" />
     <option name="CONSOLE_BACKGROUND_KEY" value="fefefe" />
-    <option name="DELETED_LINES_COLOR" value="ef946c" />
+    <option name="DELETED_LINES_COLOR" value="ff8a65" />
     <option name="DOCUMENTATION_COLOR" value="ffffff" />
     <option name="ERROR_HINT" value="" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="" />
@@ -29,7 +30,7 @@
     <option name="LINE_NUMBERS_COLOR" value="b3b7d0" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="a144d" />
     <option name="METHOD_SEPARATORS_COLOR" value="" />
-    <option name="MODIFIED_LINES_COLOR" value="9acade" />
+    <option name="MODIFIED_LINES_COLOR" value="bbdefb" />
     <option name="NOTIFICATION_BACKGROUND" value="" />
     <option name="QUESTION_HINT" value="" />
     <option name="READONLY_FRAGMENT_BACKGROUND" value="" />
