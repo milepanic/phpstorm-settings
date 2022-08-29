@@ -1,22 +1,22 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="sail" type="AUTO_DETECTED" />
+      <mapping pattern="demo" type="AUTO_DETECTED" />
       <mapping pattern="testdelete" type="AUTO_DETECTED" />
       <mapping pattern="LICENSE" type="AUTO_DETECTED" />
       <mapping pattern="ver-new" type="AUTO_DETECTED" />
       <mapping pattern="develop" type="AUTO_DETECTED" />
       <mapping pattern="xdebug" type="AUTO_DETECTED" />
-      <mapping pattern="test-xdebug" type="AUTO_DETECTED" />
-      <mapping pattern="sail" type="AUTO_DETECTED" />
-      <mapping pattern="demo" type="AUTO_DETECTED" />
       <mapping pattern="novifajlizmileusera" type="AUTO_DETECTED" />
+      <mapping pattern="test-xdebug" type="AUTO_DETECTED" />
       <mapping pattern=".php_cs.dist" type="PHP" />
       <mapping pattern=".php-cs-fixer.dist" type="PHP" />
       <mapping pattern="agent" type="PLAIN_TEXT" />
       <mapping pattern="crontab" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".dockerenv" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile2" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping ext="d" type="PLAIN_TEXT" />
       <mapping ext="phps" type="PLAIN_TEXT" />
       <mapping ext="php_cs" type="PLAIN_TEXT" />
