@@ -1,7 +1,18 @@
 <application>
   <component name="SonarLintGlobalSettings">
     <option name="nodejsPath" value="$USER_HOME$/.nvm/versions/node/v17.0.1/bin/node" />
+    <option name="rulesByKey">
+      <map>
+        <entry key="php:S107">
+          <value>
+            <Rule active="false" key="php:S107" />
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="secretsNeverBeenAnalysed" value="false" />
-    <rules />
+    <rules>
+      <Rule active="false" key="php:S107" />
+    </rules>
   </component>
 </application>
