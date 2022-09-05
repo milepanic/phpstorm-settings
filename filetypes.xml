@@ -14,7 +14,6 @@
       <mapping pattern=".php-cs-fixer.dist" type="PHP" />
       <mapping pattern="agent" type="PLAIN_TEXT" />
       <mapping pattern="crontab" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".dockerenv" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile2" type="PLAIN_TEXT" />
       <mapping ext="d" type="PLAIN_TEXT" />
