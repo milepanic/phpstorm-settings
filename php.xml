@@ -1,10 +1,5 @@
 <application>
   <component name="PhpAutoImport" auto_import_file_scope="true" import_on_paste="ALL" />
-  <component name="PhpInterpreters">
-    <interpreters>
-      <interpreter id="e7ff0246-0b0a-4151-b615-efe18d080994" name="PHP 8.0" home="/usr/bin/php" debugger_id="php.debugger.XDebug" />
-    </interpreters>
-  </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP 8.0">
