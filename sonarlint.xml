@@ -3,6 +3,11 @@
     <option name="nodejsPath" value="$USER_HOME$/.nvm/versions/node/v17.0.1/bin/node" />
     <option name="rulesByKey">
       <map>
+        <entry key="Web:S1827">
+          <value>
+            <Rule active="false" key="Web:S1827" />
+          </value>
+        </entry>
         <entry key="Web:S5256">
           <value>
             <Rule active="false" key="Web:S5256" />
@@ -39,10 +44,11 @@
     <rules>
       <Rule active="false" key="php:S103" />
       <Rule active="false" key="php:S112" />
-      <Rule active="false" key="Web:TableWithoutCaptionCheck" />
+      <Rule active="false" key="Web:S1827" />
       <Rule active="false" key="Web:S5256" />
       <Rule active="false" key="php:S1135" />
       <Rule active="false" key="php:S107" />
+      <Rule active="false" key="Web:TableWithoutCaptionCheck" />
     </rules>
   </component>
 </application>
