@@ -38,10 +38,16 @@
             <Rule active="false" key="php:S1135" />
           </value>
         </entry>
+        <entry key="php:S125">
+          <value>
+            <Rule active="false" key="php:S125" />
+          </value>
+        </entry>
       </map>
     </option>
     <option name="secretsNeverBeenAnalysed" value="false" />
     <rules>
+      <Rule active="false" key="php:S125" />
       <Rule active="false" key="php:S103" />
       <Rule active="false" key="php:S112" />
       <Rule active="false" key="Web:S1827" />
