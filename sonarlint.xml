@@ -43,6 +43,11 @@
             <Rule active="false" key="php:S125" />
           </value>
         </entry>
+        <entry key="php:S1808">
+          <value>
+            <Rule active="false" key="php:S1808" />
+          </value>
+        </entry>
         <entry key="php:S1854">
           <value>
             <Rule active="false" key="php:S1854" />
@@ -56,10 +61,11 @@
       <Rule active="false" key="php:S103" />
       <Rule active="false" key="php:S125" />
       <Rule active="false" key="php:S112" />
-      <Rule active="false" key="php:S107" />
-      <Rule active="false" key="Web:S5256" />
       <Rule active="false" key="Web:S1827" />
       <Rule active="false" key="php:S1135" />
+      <Rule active="false" key="Web:S5256" />
+      <Rule active="false" key="php:S107" />
+      <Rule active="false" key="php:S1808" />
       <Rule active="false" key="Web:TableWithoutCaptionCheck" />
     </rules>
   </component>
