@@ -53,6 +53,11 @@
             <Rule active="false" key="php:S1854" />
           </value>
         </entry>
+        <entry key="php:S2003">
+          <value>
+            <Rule active="false" key="php:S2003" />
+          </value>
+        </entry>
         <entry key="php:S4833">
           <value>
             <Rule active="false" key="php:S4833" />
@@ -67,6 +72,7 @@
       <Rule active="false" key="php:S1854" />
       <Rule active="false" key="php:S4833" />
       <Rule active="false" key="php:S112" />
+      <Rule active="false" key="php:S2003" />
       <Rule active="false" key="Web:S1827" />
       <Rule active="false" key="php:S107" />
       <Rule active="false" key="Web:S5256" />
