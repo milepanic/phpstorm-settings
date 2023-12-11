@@ -21,7 +21,9 @@
   </action>
   <action id="ActivateVersionControlToolWindow" />
   <action id="CallHierarchy" />
-  <action id="CheckinProject" />
+  <action id="CheckinProject">
+    <keyboard-shortcut first-keystroke="ctrl alt c" />
+  </action>
   <action id="CloseActiveTab">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
