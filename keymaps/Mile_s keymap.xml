@@ -16,10 +16,9 @@
     <keyboard-shortcut first-keystroke="ctrl alt s" />
   </action>
   <action id="ActivateStructureToolWindow" />
-  <action id="ActivateTODOToolWindow">
+  <action id="ActivateVersionControlToolWindow">
     <keyboard-shortcut first-keystroke="ctrl alt g" />
   </action>
-  <action id="ActivateVersionControlToolWindow" />
   <action id="CallHierarchy" />
   <action id="CheckinProject">
     <keyboard-shortcut first-keystroke="ctrl alt c" />
@@ -37,6 +36,7 @@
   <action id="Console.TableResult.EditValueMaximized">
     <keyboard-shortcut first-keystroke="shift enter" />
   </action>
+  <action id="DatabaseView.SqlGenerator" />
   <action id="Diff.ShowDiff" />
   <action id="Diff.ShowSettingsPopup" />
   <action id="Editor Redo">
