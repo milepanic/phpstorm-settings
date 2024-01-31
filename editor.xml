@@ -23,6 +23,9 @@
     </option>
     <option name="enabled" value="false" />
   </component>
+  <component name="DaemonCodeAnalyzerSettings">
+    <option name="AUTOREPARSE_DELAY" value="0" />
+  </component>
   <component name="EditorSettings">
     <option name="languageBreadcrumbsMap">
       <map>
