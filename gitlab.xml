@@ -1,0 +1,13 @@
+<application>
+  <component name="GitLabAccounts"><![CDATA[{
+  "accounts": [
+    {
+      "id": "189ca9eb-c3f7-4fa0-83c0-769dc576d203",
+      "name": "mile",
+      "server": {
+        "uri": "https://git.secra.dev"
+      }
+    }
+  ]
+}]]></component>
+</application>
