@@ -13,7 +13,6 @@
     <keyboard-shortcut first-keystroke="ctrl alt p" />
   </action>
   <action id="ActivateProjectToolWindow">
-    <keyboard-shortcut first-keystroke="ctrl k" />
     <keyboard-shortcut first-keystroke="ctrl alt a" />
   </action>
   <action id="ActivateServicesToolWindow">
