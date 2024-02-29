@@ -9,17 +9,32 @@
     <keyboard-shortcut first-keystroke="ctrl alt d" />
   </action>
   <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateProblemsViewToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl alt p" />
+  </action>
   <action id="ActivateProjectToolWindow">
     <keyboard-shortcut first-keystroke="ctrl k" />
+    <keyboard-shortcut first-keystroke="ctrl alt a" />
   </action>
   <action id="ActivateServicesToolWindow">
     <keyboard-shortcut first-keystroke="ctrl alt s" />
   </action>
-  <action id="ActivateStructureToolWindow" />
+  <action id="ActivateStructureToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl alt released x" />
+  </action>
+  <action id="ActivateTODOToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl alt q" />
+  </action>
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl alt t" />
+  </action>
   <action id="ActivateVersionControlToolWindow">
     <keyboard-shortcut first-keystroke="ctrl alt g" />
   </action>
   <action id="CallHierarchy" />
+  <action id="ChangesView.AddUnversioned" />
+  <action id="ChangesView.GroupBy.Directory" />
+  <action id="ChangesView.Revert" />
   <action id="CheckinProject">
     <keyboard-shortcut first-keystroke="ctrl alt c" />
   </action>
@@ -37,6 +52,8 @@
     <keyboard-shortcut first-keystroke="shift enter" />
   </action>
   <action id="DatabaseView.SqlGenerator" />
+  <action id="Diagram.DeselectAll" />
+  <action id="Diff.ApplyRightSide" />
   <action id="Diff.ShowDiff" />
   <action id="Diff.ShowSettingsPopup" />
   <action id="Editor Redo">
@@ -91,6 +108,7 @@
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
+  <action id="Git.Add" />
   <action id="Git.Commit.And.Push.Executor" />
   <action id="Go To Tab #1">
     <keyboard-shortcut first-keystroke="alt 1" />
@@ -135,6 +153,7 @@
   <action id="Hg.Commit.And.Push.Executor" />
   <action id="Inline" />
   <action id="IntroduceConstant" />
+  <action id="IntroduceParameter" />
   <action id="IntroduceVariable" />
   <action id="Jdbc.OpenEditor.DDL">
     <mouse-shortcut keystroke="control button1" />
@@ -168,6 +187,8 @@
     <keyboard-shortcut first-keystroke="alt k" />
   </action>
   <action id="SendEOF" />
+  <action id="ServiceView.GroupByContributor" />
+  <action id="ServiceView.GroupByServiceGroups" />
   <action id="ShowSettings">
     <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
@@ -177,11 +198,17 @@
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="ctrl alt v" />
   </action>
+  <action id="SurroundWith" />
   <action id="SurroundWithLiveTemplate" />
+  <action id="TodoViewGroupByShowPackages" />
+  <action id="ToggleRenderedDocPresentation" />
   <action id="ToggleZenMode">
     <keyboard-shortcut first-keystroke="ctrl alt back_quote" />
   </action>
   <action id="Uml.ShowDiff" />
+  <action id="UsageGrouping.Directory" />
+  <action id="UsageGrouping.UsageType" />
+  <action id="Vcs.RollbackChangedLines" />
   <action id="Vcs.UpdateProject" />
   <action id="com.jetbrains.plugins.remotesdk.console.RunSshConsoleAction">
     <keyboard-shortcut first-keystroke="alt f9" />
