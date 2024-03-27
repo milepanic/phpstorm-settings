@@ -4,7 +4,7 @@
     <property name="created">2021-03-05T12:43:25</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2020.3.2.0.0</property>
-    <property name="modified">2022-07-11T15:31:38</property>
+    <property name="modified">2024-03-27T13:11:06</property>
     <property name="originalScheme">Daisy</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Dank Mono" />
@@ -310,7 +310,6 @@
         <option name="FOREGROUND" value="ff5c98" />
       </value>
     </option>
-    <option name="DEFAULT_PARAMETER" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_PARENTHS">
       <value>
         <option name="FOREGROUND" value="9695ad" />

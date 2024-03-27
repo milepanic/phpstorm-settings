@@ -15,7 +15,9 @@
       <w>getcategorydetails</w>
       <w>getoccupancy</w>
       <w>homeaway</w>
+      <w>kurtaxe</w>
       <w>liveoak</w>
+      <w>mehrwertsteuer</w>
       <w>nativepath</w>
       <w>obmedia</w>
       <w>outbrain</w>
@@ -28,11 +30,13 @@
       <w>superadmin</w>
       <w>taboola</w>
       <w>toastr</w>
+      <w>tourismusabgabe</w>
       <w>traefik</w>
       <w>trrtiktok</w>
       <w>ussop</w>
       <w>voiler</w>
       <w>vrbo</w>
+      <w>übernachtungssteuer</w>
     </words>
   </component>
 </application>
