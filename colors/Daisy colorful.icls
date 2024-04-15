@@ -359,6 +359,30 @@
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
+    <option name="DIFF_CONFLICT">
+      <value>
+        <option name="BACKGROUND" value="ffe4e6" />
+        <option name="ERROR_STRIPE_COLOR" value="fecdd3" />
+      </value>
+    </option>
+    <option name="DIFF_DELETED">
+      <value>
+        <option name="BACKGROUND" value="e5e5e5" />
+        <option name="ERROR_STRIPE_COLOR" value="d4d4d4" />
+      </value>
+    </option>
+    <option name="DIFF_INSERTED">
+      <value>
+        <option name="BACKGROUND" value="ecfccb" />
+        <option name="ERROR_STRIPE_COLOR" value="bef264" />
+      </value>
+    </option>
+    <option name="DIFF_MODIFIED">
+      <value>
+        <option name="BACKGROUND" value="e0f2fe" />
+        <option name="ERROR_STRIPE_COLOR" value="bae6fd" />
+      </value>
+    </option>
     <option name="DOCKER_KEYWORD">
       <value>
         <option name="FOREGROUND" value="ff3352" />
