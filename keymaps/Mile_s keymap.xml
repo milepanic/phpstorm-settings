@@ -188,9 +188,11 @@
   <action id="SendEOF" />
   <action id="ServiceView.GroupByContributor" />
   <action id="ServiceView.GroupByServiceGroups" />
+  <action id="ShowBookmarks" />
   <action id="ShowSettings">
     <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
+  <action id="ShowTypeBookmarks" />
   <action id="SplitHorizontally">
     <keyboard-shortcut first-keystroke="ctrl alt h" />
   </action>
@@ -200,6 +202,8 @@
   <action id="SurroundWith" />
   <action id="SurroundWithLiveTemplate" />
   <action id="TodoViewGroupByShowPackages" />
+  <action id="ToggleBookmark" />
+  <action id="ToggleBookmarkWithMnemonic" />
   <action id="ToggleRenderedDocPresentation" />
   <action id="ToggleZenMode">
     <keyboard-shortcut first-keystroke="ctrl alt back_quote" />
