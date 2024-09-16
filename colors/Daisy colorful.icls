@@ -8,9 +8,9 @@
     <property name="originalScheme">Daisy</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Dank Mono" />
-  <option name="CONSOLE_FONT_SIZE" value="18" />
+  <option name="CONSOLE_FONT_SIZE" value="14" />
   <option name="CONSOLE_LIGATURES" value="true" />
-  <option name="CONSOLE_LINE_SPACING" value="1.8" />
+  <option name="CONSOLE_LINE_SPACING" value="1.5" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="c0e8c1" />
     <option name="BORDER_LINES_COLOR" value="" />
