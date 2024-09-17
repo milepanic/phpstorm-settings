@@ -5,6 +5,7 @@
       <laf-to-scheme laf="ExperimentalDark" scheme="Daisy colorful" />
       <laf-to-scheme laf="ExperimentalLightWithLightHeader" scheme="Daisy colorful" />
       <laf-to-scheme laf="Gray" scheme="Daisy colorful" />
+      <laf-to-scheme laf="IntelliJ Light" scheme="Bluloco Light PHPStorm" />
       <laf-to-scheme laf="dfdeb71c-cf0a-490d-8983-dfb56b5e043f" scheme="Daisy colorful" />
     </lafs-to-previous-schemes>
   </component>

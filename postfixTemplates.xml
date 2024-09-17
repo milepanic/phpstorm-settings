@@ -6,7 +6,7 @@
     </template>
     <template id="dvd@userDefined" key=".dvd" provider="builtin.php" topmost="false">
       <conditions />
-      <template name="fakeKey" value="die(var_dump($EXPR$));" toReformat="true" toShortenFQNames="true" />
+      <template name="fakeKey" value="die(var_dump($EXPR$));" description="" toReformat="true" toShortenFQNames="true" />
     </template>
     <template id="dd@userDefined" key=".dd" provider="builtin.php" topmost="false">
       <conditions />
