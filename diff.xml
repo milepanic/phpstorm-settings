@@ -70,8 +70,8 @@
         <PlaceSettings>
           <option name="DIFF_TOOLS_ORDER">
             <list>
-              <option value="com.intellij.diff.tools.fragmented.UnifiedDiffTool" />
               <option value="com.intellij.diff.tools.simple.SimpleDiffTool" />
+              <option value="com.intellij.diff.tools.fragmented.UnifiedDiffTool" />
               <option value="com.intellij.openapi.vcs.changes.patch.tool.ApplyPatchDiffTool" />
               <option value="com.intellij.diff.tools.combined.CombinedUnifiedDiffTool" />
               <option value="com.intellij.diff.tools.combined.CombinedSideBySideDiffTool" />
@@ -106,6 +106,9 @@
         <PlaceSettings>
           <option name="HIGHLIGHT_POLICY" value="BY_LINE" />
         </PlaceSettings>
+      </entry>
+      <entry key="VcsFileHistoryView">
+        <PlaceSettings />
       </entry>
     </option>
   </component>
