@@ -17,6 +17,7 @@
       <w>getcategorydetails</w>
       <w>getoccupancy</w>
       <w>homeaway</w>
+      <w>imageinfo</w>
       <w>initdb</w>
       <w>kurtaxe</w>
       <w>liveoak</w>
@@ -37,6 +38,7 @@
       <w>secra</w>
       <w>superadmin</w>
       <w>taboola</w>
+      <w>thumburl</w>
       <w>toastr</w>
       <w>tourismusabgabe</w>
       <w>traefik</w>
