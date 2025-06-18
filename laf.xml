@@ -1,6 +1,6 @@
 <application>
   <component name="LafManager">
-    <laf themeId="ExperimentalLightWithLightHeader" />
+    <laf themeId="com.github.catppuccin.latte.jetbrains" />
     <lafs-to-previous-schemes>
       <laf-to-scheme laf="ExperimentalDark" scheme="Daisy colorful" />
       <laf-to-scheme laf="ExperimentalLightWithLightHeader" scheme="Daisy colorful" />
