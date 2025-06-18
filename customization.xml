@@ -5,25 +5,11 @@
       <path value="Main Menu" />
       <path value="Run" />
     </group>
-    <group value="AtomFileIcons.Actions" is_group="true" forse_popup="false" action_type="-1" position="7">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="Right" />
-    </group>
-    <group value="SearchEverywhere" is_action="true" action_type="-1" position="7">
-      <path value="root" />
-      <path value="Navigation Bar Toolbar" />
-    </group>
     <group value="ChangesView.Revert" is_action="true" action_type="-1" position="7">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
       <path value="NavBarVcsGroup" />
       <path value="VcsNavBarToolbarActions" />
-    </group>
-    <group value="AtomFileIcons.OldToolbar" is_group="true" forse_popup="false" action_type="-1" position="6">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="Right" />
     </group>
     <group value="Vcs.ShowTabbedFileHistory" is_action="true" action_type="-1" position="6">
       <path value="root" />
@@ -36,26 +22,11 @@
       <path value="Main Menu" />
       <path value="Run" />
     </group>
-    <group value="SettingsEntryPoint" is_action="true" action_type="-1" position="5">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="Right" />
-    </group>
     <group value="Vcs.Push" is_action="true" action_type="-1" position="5">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
       <path value="NavBarVcsGroup" />
       <path value="VcsNavBarToolbarActions" />
-    </group>
-    <group value="SearchEverywhere" is_action="true" action_type="-1" position="4">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="Right" />
-    </group>
-    <group value="CodeWithMeToolbarGroupNewUi" is_group="true" forse_popup="false" action_type="-1" position="3">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="Right" />
     </group>
     <group value="NewUiRunWidget" is_action="true" action_type="-1" position="2">
       <path value="root" />
