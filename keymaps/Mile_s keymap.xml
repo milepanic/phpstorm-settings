@@ -44,6 +44,7 @@
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
   <action id="CodeGlance.toggle" />
+  <action id="CodeGlancePro.toggle" />
   <action id="CollapseSelection" />
   <action id="CompareTwoFiles" />
   <action id="Console.TableResult.CompareCells" />
@@ -108,6 +109,9 @@
     <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
   <action id="Git.Add" />
+  <action id="Git.Branches">
+    <keyboard-shortcut first-keystroke="shift ctrl g" />
+  </action>
   <action id="Git.Commit.And.Push.Executor" />
   <action id="Go To Tab #1">
     <keyboard-shortcut first-keystroke="alt 1" />
