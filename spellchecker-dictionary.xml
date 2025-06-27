@@ -16,6 +16,7 @@
       <w>fillable</w>
       <w>getcategorydetails</w>
       <w>getoccupancy</w>
+      <w>getpromotions</w>
       <w>homeaway</w>
       <w>imageinfo</w>
       <w>initdb</w>
