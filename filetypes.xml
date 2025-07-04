@@ -26,15 +26,18 @@
       <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping ext="php_cs" type="PLAIN_TEXT" />
       <mapping ext="phps" type="PLAIN_TEXT" />
-      <mapping ext="plantuml" type="PlantUML file" />
       <removed_mapping ext="d" approved="true" type="D file" />
       <removed_mapping ext="dockerignore" approved="true" type="DockerIgnore file" />
+      <removed_mapping ext="dockerignore" approved="true" type="DockerIgnore file" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="pdf" approved="true" type="Native" />
       <removed_mapping ext="xlf" approved="true" type="XML" />
       <removed_mapping pattern=".env" approved="true" type=".env file" />
       <removed_mapping pattern="test.blade.php" approved="true" type="Blade" />
+      <mapping ext="plantuml" type="PlantUML file" />
     </extensionMap>
   </component>
 </application>
