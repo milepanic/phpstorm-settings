@@ -1,5 +1,6 @@
 <application>
   <component name="LafManager">
+    <laf themeId="dfdeb71c-cf0a-490d-8983-dfb56b5e043f" />
     <lafs-to-previous-schemes>
       <laf-to-scheme laf="ExperimentalDark" scheme="Daisy colorful" />
       <laf-to-scheme laf="ExperimentalLightWithLightHeader" scheme="Daisy colorful" />
