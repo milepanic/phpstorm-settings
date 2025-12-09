@@ -13,6 +13,7 @@
       <mapping pattern="sail" type="AUTO_DETECTED" />
       <mapping pattern="demo" type="AUTO_DETECTED" />
       <mapping pattern="novifajlizmileusera" type="AUTO_DETECTED" />
+      <mapping pattern=".easignore" type="Ignore File" />
       <mapping pattern=".php_cs.dist" type="PHP" />
       <mapping pattern=".php-cs-fixer.dist" type="PHP" />
       <mapping pattern="agent" type="PLAIN_TEXT" />
