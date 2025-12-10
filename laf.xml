@@ -1,10 +1,11 @@
 <application>
   <component name="LafManager">
-    <laf themeId="com.github.catppuccin.latte.jetbrains" />
+    <laf themeId="Islands Light" />
     <lafs-to-previous-schemes>
       <laf-to-scheme laf="ExperimentalDark" scheme="Daisy colorful" />
       <laf-to-scheme laf="ExperimentalLightWithLightHeader" scheme="Daisy colorful" />
       <laf-to-scheme laf="IntelliJ Light" scheme="Bluloco Light PHPStorm" />
+      <laf-to-scheme laf="Islands Light" scheme="Daisy colorful" />
       <laf-to-scheme laf="com.github.catppuccin.latte.jetbrains" scheme="Daisy colorful" />
       <laf-to-scheme laf="dfdeb71c-cf0a-490d-8983-dfb56b5e043f" scheme="Daisy colorful" />
     </lafs-to-previous-schemes>
