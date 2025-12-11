@@ -1,5 +1,7 @@
 <application>
   <component name="CommitMessageCompletionSurveyStateComponent">
-    <option name="sessionsShown" value="29" />
+    <option name="optInNotificationShown" value="true" />
+    <option name="isOptInNotificationShown" value="true" />
+    <option name="sessionsShown" value="30" />
   </component>
 </application>
