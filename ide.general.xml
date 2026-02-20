@@ -13,8 +13,6 @@
     <entry key="editor.caret.width" value="1" source="SYSTEM" />
     <entry key="terminal.new.ui" value="true" source="SYSTEM" />
     <entry key="moved.to.new.ui" value="true" source="SYSTEM" />
-    <entry key="llm.jcp.analytics.endpoint.url" value="https://api.jetbrains.cloud/analytics/events/push" source="MANAGER" />
-    <entry key="jetbrains.security.package-checker.enableNpmTransitiveDependencies" value="false" source="MANAGER" />
     <entry key="jetbrains.security.package-checker.enablePipEnvTransitiveDependencies" value="false" source="MANAGER" />
     <entry key="jetbrains.security.package-checker.enablePoetryTransitiveDependencies" value="false" source="MANAGER" />
     <entry key="jetbrains.security.package-checker.enableUvTransitiveDependencies" value="false" source="MANAGER" />
