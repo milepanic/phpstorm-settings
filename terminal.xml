@@ -1,9 +1,0 @@
-<application>
-  <component name="BlockTerminalOptions">
-    <option name="showSeparatorsBetweenBlocks" value="false" />
-  </component>
-  <component name="ReworkedTerminalUsage"><![CDATA[{
-  "feedbackNotificationShown": true,
-  "enterKeyPressedTimes": 940
-}]]></component>
-</application>
