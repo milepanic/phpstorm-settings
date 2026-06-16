@@ -57,6 +57,7 @@
     <option name="ENABLE_RENDERED_DOC" value="true" />
     <option name="SHOW_INTENTION_PREVIEW" value="false" />
     <option name="IS_FULL_LINE_HEIGHT_CURSOR" value="true" />
+    <option name="IS_SMOOTH_CARET_MOVEMENT" value="true" />
     <option name="IS_INDENT_GUIDES_SHOWN" value="false" />
     <option name="IS_DND_ENABLED" value="false" />
     <option name="KEEP_TRAILING_SPACE_ON_CARET_LINE" value="false" />
