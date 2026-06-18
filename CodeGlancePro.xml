@@ -1,7 +1,8 @@
 <application>
   <component name="CodeGlance Pro">
-    <option name="disabled" value="true" />
     <option name="hideOriginalScrollBar" value="true" />
     <option name="mainWidth" value="100" />
+    <option name="viewportBorderColor" value="ff3352" />
+    <option name="viewportColor" value="797a7e" />
   </component>
 </application>
