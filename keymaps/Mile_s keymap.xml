@@ -2,6 +2,9 @@
   <action id="$Redo">
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
+  <action id="ActivateCommitToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl alt c" />
+  </action>
   <action id="ActivateDatabaseToolWindow">
     <keyboard-shortcut first-keystroke="ctrl alt d" />
   </action>
@@ -31,9 +34,8 @@
   <action id="ChangesView.AddUnversioned" />
   <action id="ChangesView.GroupBy.Directory" />
   <action id="ChangesView.Revert" />
-  <action id="CheckinProject">
-    <keyboard-shortcut first-keystroke="ctrl alt c" />
-  </action>
+  <action id="ChangesView.ToggleCommitUi" />
+  <action id="CheckinProject" />
   <action id="CloseActiveTab">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
@@ -110,6 +112,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl g" />
   </action>
   <action id="Git.Commit.And.Push.Executor" />
+  <action id="Git.Commit.Stage" />
   <action id="GitLab.Merge.Request.Changes.MarkNotViewed">
     <keyboard-shortcut first-keystroke="shift f8" />
   </action>
@@ -208,6 +211,7 @@
   </action>
   <action id="SurroundWith" />
   <action id="SurroundWithLiveTemplate" />
+  <action id="TodoViewGroupByFlattenPackage" />
   <action id="TodoViewGroupByShowPackages" />
   <action id="ToggleBookmark" />
   <action id="ToggleBookmarkWithMnemonic" />
